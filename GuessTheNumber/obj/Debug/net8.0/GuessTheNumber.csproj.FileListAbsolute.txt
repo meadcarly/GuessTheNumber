@@ -1,0 +1,14 @@
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.deps.json
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.runtimeconfig.json
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.dll
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.pdb
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfo.cs
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.dll
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/refint/GuessTheNumber.dll
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.pdb
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.genruntimeconfig.cache
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/ref/GuessTheNumber.dll
