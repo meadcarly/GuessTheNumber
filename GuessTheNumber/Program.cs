@@ -1,4 +1,6 @@
-﻿namespace GuessTheNumber;
+﻿using System.Threading.Channels;
+
+namespace GuessTheNumber;
 
 class Program
 {
@@ -13,14 +15,17 @@ class Program
             Console.WriteLine("Guess the number rolled! Pick a number between 1 and 10.");
             guess = int.Parse(Console.ReadLine());
 
-            if (guess < rollValue)
+            var hint = (guess < rollValue) ? "Too low...guess again!" : "Too high...guess again.";
+
+            Console.WriteLine($"{hint}");
+            /*if (guess < rollValue)
             {
                 Console.WriteLine("Too low...guess again!");
             }
             else if (guess > rollValue)
             {
                 Console.WriteLine("Too high...guess again.");
-            }
+            }*/
         } while (guess != rollValue);
 
         if (guess == rollValue)

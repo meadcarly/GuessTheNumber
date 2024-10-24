@@ -12,3 +12,4 @@
 /Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.pdb
 /Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.genruntimeconfig.cache
 /Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/ref/GuessTheNumber.dll
+/Users/carlymead/Desktop/repos/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.sourcelink.json
